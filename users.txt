@@ -1,0 +1,2 @@
+{"user_id": 5082501196, "plan": 1, "valid_until": "2027-12-31", "access_count": 10}
+
